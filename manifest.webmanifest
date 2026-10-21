@@ -1,0 +1,13 @@
+{
+  "id": ".",
+  "name": "Nexora · Asistente comercial",
+  "short_name": "Nexora",
+  "description": "Clientes, seguimientos y recordatorios comerciales.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f3",
+  "theme_color": "#173c33",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

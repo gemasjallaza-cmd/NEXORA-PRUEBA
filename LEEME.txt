@@ -1,0 +1,13 @@
+NEXORA · PRUEBA INSTALABLE (PWA)
+
+Esta carpeta contiene una versión instalable de la app comercial como PWA. Para instalarla en Android, debe publicarse en una dirección HTTPS. Abrir index.html directamente desde el ZIP no permite instalarla como app completa.
+
+Pasos:
+1. Publica el contenido completo de esta carpeta en un alojamiento HTTPS (por ejemplo, GitHub Pages o Netlify).
+2. Abre la URL en Chrome para Android.
+3. Menú ⋮ > Instalar aplicación (o Añadir a pantalla de inicio).
+4. Abre Nexora desde el icono.
+
+Datos: se guardan localmente en el almacenamiento del navegador de esa instalación/dispositivo; exporta respaldos con frecuencia. No hay sincronización entre dispositivos.
+
+Notificaciones: esta versión conserva los recordatorios que funcionan mientras la app está abierta. Las notificaciones fiables en segundo plano requieren implementación y pruebas nativas adicionales.
